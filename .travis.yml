@@ -1,6 +1,6 @@
 language: ruby
 cache: bundler # caching to speed up dependency installation
-dist: xenial
+dist: focal
 vm:
   size: 2x-large
 ruby:
